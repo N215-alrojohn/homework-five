@@ -587,7 +587,7 @@ nav .links span {
             justify-content: space-evenly;
   }
 }
-nav {
+.blacknav {
   margin: 0 auto;
   max-width: 980px;
   height: 80px;
@@ -604,18 +604,18 @@ nav {
   position: relative;
   z-index: 99;
 }
-nav .logo {
+.blacknav .logo {
   width: 92px;
   height: 42px;
   background-image: url(../images/logo/logo-black.svg);
 }
-nav .links a {
+.blacknav .links a {
   color: #000000;
   text-decoration: none;
   font-family: GillSans;
   font-size: 15px;
 }
-nav .links span {
+.blacknav .links span {
   color: #79ADDC;
   margin: 0 20px;
 }
